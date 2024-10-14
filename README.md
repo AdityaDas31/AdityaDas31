@@ -6,7 +6,7 @@ Crafting intuitive web applications and creating seamless user experiences excit
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-das-513883222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dasaditya007) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-das-513883222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/XW4mjKoodBvyciT7/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dasaditya007) 
  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@I_am_AdityaDas) 
 
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
